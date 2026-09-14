@@ -4,5 +4,5 @@
 |---|---|
 |Flores, Timothy Lawrence T.|Leader|
 |John Vincent|Frontend Developer|
-|Sean|Backend Developer|
+|Landayan, Sean Kaelin R.|Backend Developer|
 |Nathaniel|Documentation/Test|
