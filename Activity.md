@@ -3,6 +3,6 @@
 |Name|Role|
 |---|---|
 |Flores, Timothy Lawrence T.|Leader|
-|John Vincent|Frontend Developer|
+|Roque, John Vincent G.|Frontend Developer|
 |Landayan, Sean Kaelin R.|Backend Developer|
 |Caragdag, Nathaniel R.|Documentation/Test|
